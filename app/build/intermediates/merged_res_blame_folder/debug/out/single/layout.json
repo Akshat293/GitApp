@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/akshatsaxena/Desktop/Coroutine_Retrofit_Recyclerview/Gitapp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/recycler_list_row.xml",
+        "source": "/Users/akshatsaxena/Desktop/Coroutine_Retrofit_Recyclerview/Gitapp/app/src/main/res/layout/recycler_list_row.xml"
+    },
+    {
+        "merged": "/Users/akshatsaxena/Desktop/Coroutine_Retrofit_Recyclerview/Gitapp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_recycler_list.xml",
+        "source": "/Users/akshatsaxena/Desktop/Coroutine_Retrofit_Recyclerview/Gitapp/app/src/main/res/layout/fragment_recycler_list.xml"
+    }
+]

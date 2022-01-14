@@ -1,0 +1,8 @@
+com/android/androidcoroutinedemokotlin/DataBindingTriggerClass.java
+ com.android.androidcoroutinedemokotlin.DataBindingTriggerClass
+com/android/androidcoroutinedemokotlin/databinding/FragmentRecyclerListBinding.java
+ com.android.androidcoroutinedemokotlin.databinding.FragmentRecyclerListBinding
+com/android/androidcoroutinedemokotlin/databinding/RecyclerListRowBinding.java
+ com.android.androidcoroutinedemokotlin.databinding.RecyclerListRowBinding
+com/android/androidcoroutinedemokotlin/BuildConfig.java
+ com.android.androidcoroutinedemokotlin.BuildConfig
